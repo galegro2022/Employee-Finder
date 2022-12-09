@@ -1,1 +1,2 @@
 # Employee-Finder
+I created the Find-A-Worker-Employee Database to quickly and efficiently help small to medium sized businessess sort through their employees. I was motivated by the challenge of testing my new sql knowledge. This program helps people add, update, or all their employees in under 30 seconds.Building it helped me learn a great deal about sql. WHat makes it stand out is much faster it then similar progams.
